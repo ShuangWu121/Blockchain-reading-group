@@ -1,4 +1,4 @@
-# NACL Blockchain reading group
+# NaCl Blockchain reading group
 
 
 ## Current reading paper
