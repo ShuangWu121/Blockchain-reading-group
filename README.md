@@ -12,7 +12,7 @@
 ### Attack
 
 - [Majority is not Enough:
-Bitcoin Mining is Vulnerable] (https://arxiv.org/pdf/1311.0243.pdf)
+Bitcoin Mining is Vulnerable](https://arxiv.org/pdf/1311.0243.pdf)
 
 ### Payment Networks
 
