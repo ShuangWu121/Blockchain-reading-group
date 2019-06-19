@@ -3,11 +3,13 @@
 
 ## Current reading paper
 
-*From 27th May to ..*
+*From 27th May to ..20th June*
 
 - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf). Kiayias A, Russell A, David B, Oliynykov R. '16.
 
 ## Reading list
+
+###
 
 ### Attack
 
