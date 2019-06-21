@@ -15,7 +15,7 @@
 ### Consensus
 
 - [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT '17.
--  [Proofs of space] (https://www.iacr.org/archive/crypto2015/92160192/92160192.pdf). Stefan Dziembowski, Sebastian Faust, Vladimir Kolmogorov, Krzysztof Pietrzak. CRYPTO 2015
+- [Proofs of space](https://www.iacr.org/archive/crypto2015/92160192/92160192.pdf). Stefan Dziembowski, Sebastian Faust, Vladimir Kolmogorov, Krzysztof Pietrzak. CRYPTO 2015
 
 ### Attack
 
