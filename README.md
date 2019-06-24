@@ -1,5 +1,11 @@
 # NaCl Blockchain reading group
 
+## The next meeting
+
+27th June, Thursday. 
+
+Room: Gløshaugen Elektro B 2. etasje Møterom B212 (327_B212)
+
 
 ## Current reading paper
 
