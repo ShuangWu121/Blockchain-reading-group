@@ -2,18 +2,20 @@
 
 ## The next meeting
 
-27th June, Thursday. 
 
-Room: Gløshaugen Elektro B 2. etasje Møterom B212 (327_B212)
 
 
 ## Current reading paper
 
+*From 27th June to ..*
+
+- [Graphchain: a Blockchain-Free Scalable Decentralised Ledger](http://delivery.acm.org/10.1145/3210000/3205235/p21-boyen.pdf?ip=129.241.231.228&id=3205235&acc=ACTIVE%20SERVICE&key=CDADA77FFDD8BE08%2E5386D6A7D247483C%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1561637824_0788e366214e88815abdcf4b8844d2a3). Xavier Boyen, Christopher Carr,Thomas Haines. BCC'18
 
 
-*From 20th June to ..*
 
-- [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf). Rafael Pass,Elaine Shi. PODC '17
+
+
+
 
 
 ## Reading list
@@ -59,3 +61,6 @@ Analysis and Applications](https://eprint.iacr.org/2014/765.pdf).  Garay J, Kiay
 
 - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf). Kiayias A, Russell A, David B, Oliynykov R. '16.
 
+*From 20th June to 27th June*
+
+- [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf). Rafael Pass,Elaine Shi. PODC '17
